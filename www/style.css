@@ -84,9 +84,6 @@ input {
   margin-bottom: 1em;
 }
 
-.zp {
-  color: #FB6418;  
-}
 /* Remove spinner arrows from inputs -----------------------------------------*/
 /* - Chrome, Safari, Edge, Opera */
 input::-webkit-outer-spin-button,
