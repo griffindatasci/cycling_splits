@@ -5,9 +5,9 @@ account: griffindatasci
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 7624025
-bundleId: 6896227
+bundleId: 6896920
 url: https://griffindatasci.shinyapps.io/cycling_splits/
-when: 1677571071.65849
-lastSyncTime: 1677571071.65854
+when: 1677584129.6945
+lastSyncTime: 1677584129.69455
 asMultiple: FALSE
 asStatic: FALSE
